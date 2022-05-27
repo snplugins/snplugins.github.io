@@ -11,7 +11,7 @@ Currently, you can visit these pages for third-party plugin installation.
 
 # Usage
 
-Go to `Preferences` - `General` - `Advanced Settings`, then paste the URL with "ext.json" to `Install Custom Extension` text box. Then click `Install` button to proceed the plugins' installation on your own workspace.
+Go to `Preferences` - `General` - `Advanced Settings`, paste the URL with "ext.json" to `Install Custom Extension` text box. Then click `Install` button to proceed the plugins' installation on your own workspace.
 
 # Something Else
 

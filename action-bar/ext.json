@@ -1,0 +1,8 @@
+{
+    "identifier": "org.snplugins.actionbar",
+    "name": "Action Bar - SNPlugins",
+    "content_type": "SN|Component",
+    "area": "editor-stack",
+    "version": "1.3.2",
+    "url": "https://snplugins.github.io/action-bar"
+}

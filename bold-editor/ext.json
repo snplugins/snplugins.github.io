@@ -1,0 +1,9 @@
+{
+  "identifier": "org.standardnotes.bold-editor-dev",
+  "name": "Bold Editor - SNPlugins",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.3.5",
+  "description": "Text formatting and Filesafe integration!",
+  "url": "https://snplugins.github.io/bold-editor/"
+}

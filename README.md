@@ -1,3 +1,5 @@
+See https://github.com/snexts/snexts.github.io
+
 # Standard Notes Plugins gh-pages
 
 This repository is built for self-host plugins for [Standard Notes](https://github.com/standardnotes). 
